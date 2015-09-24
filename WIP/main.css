@@ -1,4 +1,5 @@
-
+* { margin:0; padding:0; box-sizing:border-box; 
+}
 
   body { 
     background-color: #257A7A;
@@ -10,7 +11,10 @@
   
   }
 
-  
+section#mainContent {
+  background:#E91E63;
+}
+ 
   
 }
 h3.ontop {
@@ -74,3 +78,8 @@ a {color:white;
     font-family:Open Sans, sans-serif;
     font-size:100%;
 }
+
+.columns {
+  float:left;
+  padding:0 1em;
+  width:33.33%
