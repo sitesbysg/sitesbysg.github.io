@@ -9,10 +9,7 @@
   height: 100%; 
   
   }
-.bar {
-  height: 15em;
-  opacity: 0.7;
-  background: black;
+
   
   
 }
@@ -50,19 +47,7 @@ a.ontop {
   position: relative;
   top: 4.7em;
 }
-div.transbox
-{
-  
-  
-  opacity:1.0;
-  filter:alpha(opacity=80); /* For IE8 and earlier */
-}
-div.transbox p
-{
-  margin: 1%;
-  font-weight: bold;
- 
-}
+
 
 h1 {
     color:white;
