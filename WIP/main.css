@@ -20,9 +20,31 @@ h3.ontop {
   position: relative;
   top: 4.7em;
 }
-ul.ontop {
-  position: relative;
-  top: 4.7em;
+
+ul {
+    float: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+a {
+    float: left;
+    width: 6em;
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    padding: 0.2em 0.6em;
+    border-right: 1px solid white;
+}
+
+a:hover {
+    background-color: black;
+}
+
+li {
+    display: inline;
 }
 a.ontop {
   position: relative;
