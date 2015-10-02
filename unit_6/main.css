@@ -1,0 +1,117 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+    color: #6D635D;
+    background-color: #f9ebe9;
+    font-size: 16px;
+    font-family: 'Raleway, sans-serif;
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+nav{
+    font-family: Raleway, sans-serif;
+    color:#813728
+    font-size: 1em;
+    float: right;
+    padding: 20px;
+    margin: 0px;
+}
+
+a nav{
+    text-decoration: none;
+    color:#813728;
+    margin: 1em;
+    display: inline-block;
+}
+
+
+#banner {
+    text-align: center;
+    
+}
+
+#intro {
+    background-color:#EA9B9D;
+
+}
+
+
+#sections {
+    background-color:#EA9B9D
+    padding: 20px;
+    margin: 1em;
+    display: inline-block;
+}
+
+background-color:#EA9B9D
+
+h1 {
+    color:#813728;
+    font-family: Raleway, sans-serif;
+    font-size:300%;
+}
+
+h3 {
+    color:#813728;
+    font-family:Open Sans,sans-serif;
+    font-weight: bold;
+    font-size:150%;
+}
+p  {
+    color:#813728;
+    font-family:Open Sans,
+    sans-serif;
+    font-size:100%;
+
+}
+
+#DYI Projects {
+    background-color:#EA9B9D;
+    width: 33.3%;
+    padding: 1em;
+    float: left;
+    display:block;
+}
+
+#Loom Patterns{
+    background-color:#EA9B9D;
+    width: 33.3%;
+    padding: 1em;
+    float: centre;
+    display:block;
+
+}
+
+#Jewelry by NBD {
+    background-color:#EA9B9D;
+    width: 33.3%;
+    padding: 1em;
+    float: right;
+    display:block;
+}
+
+#footer  {
+    color:#813728;
+    font-family:Open Sans,
+    sans-serif;
+    font-size:80%;
+    clear: both;
+}
+
+.clearfix:after { 
+    content: "."; 
+    visibility: hidden; 
+    display: block; 
+    height: 0; 
+    clear: both;
+}
+a:hover {
+    background-color: #EA9B9D;
+}
+
+
+
